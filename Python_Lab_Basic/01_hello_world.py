@@ -1,3 +1,6 @@
 #hello_world
+print("#######")
 print("My first simple Python script!")
-print("meninges text line")
+print("#######")
+print("meaningless text line")
+print("#######")
